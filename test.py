@@ -62,7 +62,11 @@ def movement(cycles):
 
     x, y, z = ms.player_position()
 
+#-90, 62
+# 90, 64
+# Cactus -90, 0
+
 view_change_random_smooth(-90, 62)
-# attack(False)
+# attack(True)
 # movement(9)
 # attack(False)
